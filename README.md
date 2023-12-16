@@ -10,3 +10,5 @@ C Based Projects
 C++ Based Projects
 * pa5: Card Shuffler with modified List ADT
 * pa6: BigInteger Operations with BigInteger ADT
+* pa7: Dictionary using BST ADT
+* pa8: Dictionary using Red-Black Tree ADT
